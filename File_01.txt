@@ -1,6 +1,1 @@
-Line one added
-<<<<<<< HEAD
-line two added
-=======
-BidBucket_02 added a line
->>>>>>> 0a6bf72c5699ac07014bd19422177a331d91f28e
+
